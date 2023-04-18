@@ -1,4 +1,7 @@
 # Discord-bot-witch-interaction-commands
+
+<img src = https://i.imgur.com/D5KnQlE.png>
+
 ___
 
 # All if you need 
