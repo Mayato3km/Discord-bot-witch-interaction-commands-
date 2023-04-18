@@ -3,7 +3,9 @@ ___
 
 # All if you need 
 
-```npm install discord.js
+``npm install discord.js``
 
-npm install dotenv```
+``npm install dotenv```
 ___
+
+# Edit ```.env``` file
