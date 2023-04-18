@@ -13,11 +13,11 @@ ___
 
 # Edit ```.env``` file
 
-``TOKEN = YOUR_BOT_TOKEN``
+``TOKEN = "_"``  *you'r bot token *
 
-``CLIENT_ID = YOUR_BOT_ID``
+``CLIENT_ID = "_"`` * Bot's ID *
 
-``GUILD_ID = YOUR_SERVER_ID``
+``GUILD_ID = "_"`` *you'r discord server ID *
 ___
 
 # If you want start you'r bot :
