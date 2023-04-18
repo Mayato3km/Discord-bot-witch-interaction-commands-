@@ -9,3 +9,7 @@ ___
 ___
 
 # Edit ```.env``` file
+
+``[TOKEN = YOUR_BOT_TOKEN
+CLIENT_ID = YOUR_BOT_ID
+GUILD_ID = YOUR_SERVER_ID]``
